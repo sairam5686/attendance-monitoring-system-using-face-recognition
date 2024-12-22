@@ -1,6 +1,6 @@
 # 🎯 Attendance Monitoring System Using Face Recognition
 
-## 🌟 Overview
+# 🌟 Overview
 
 This project is a **Python-based Attendance Monitoring System** that uses face recognition to mark attendance. It leverages the following technologies:
 
@@ -10,7 +10,7 @@ This project is a **Python-based Attendance Monitoring System** that uses face r
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 ✔️ Real-time face detection and recognition  
 ✔️ User-friendly GUI for interaction  
@@ -19,7 +19,7 @@ This project is a **Python-based Attendance Monitoring System** that uses face r
 
 ---
 
-## 🔧 Prerequisites
+# 🔧 Prerequisites
 
 Ensure you have the following installed:
 
